@@ -1,0 +1,33 @@
+# Dart dependencies
+.dart_tool/
+.packages
+build/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Common
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# Gradle related
+.gradle/
+
+# Ignore any git repository inside the project
+git/
